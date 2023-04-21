@@ -1,2 +1,5 @@
+#Ignore .doc files
 *.doc
-venv
+
+#Ignore /venv directory
+/venv
